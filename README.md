@@ -1,4 +1,4 @@
-## Olá eu sou o Pedro Henrique, estudante de desenvolvimento WEB!
+## Olá eu sou o Pedro Henrique, estudante de programação!
 <div align="center">
   <a href="https://github.com/PedroLopes7K">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroLopes7K&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
